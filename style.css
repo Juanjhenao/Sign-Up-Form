@@ -24,7 +24,7 @@ h2 {
   font-weight: 600;
   text-transform: uppercase;
   display:inline-block;
-  margin: 40px 8px 10px 8px; 
+  margin: 10px 8px 10px 8px; 
   color: #cccccc;
 }
 
@@ -270,7 +270,8 @@ input:placeholder {
 } 
 
 #icon {
-  width:60%;
+  width:12%;
+  margin-top: 5%;
 }
 
 * {
