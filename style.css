@@ -157,7 +157,13 @@ input:placeholder {
   color: #cccccc;
 }
 
+input:focus:invalid {
+  border-bottom: 2px solid #e95f5f;
+}
 
+#errorText {
+  color: #e95f5f;
+}
 
 /* ANIMATIONS */
 
